@@ -21,7 +21,7 @@ def get_jsonparsed_data(url, YEAR):
     response = requests.get(url=url)
     text_data = response.text
     # Write response to text file
-    with open("bulk_suprises_{}.txt".format(YEAR), "w") as text_file:
+    with open("data/bulk_suprises_{}.txt".format(YEAR), "w") as text_file:
         text_file.write(text_data)
 
 
@@ -29,7 +29,7 @@ if __name__ == "__main__":
     # Pull API key from .env file
     FMP_API_KEY = config("FMP_API_KEY")
     # Input: year to pull for bulk endpoint
-    YEAR = 2020
+    YEAR = 2019
 
     url = "https://financialmodelingprep.com/api/v4/earnings-surprises-bulk?year={}&apikey={}".format(
         YEAR, FMP_API_KEY)
