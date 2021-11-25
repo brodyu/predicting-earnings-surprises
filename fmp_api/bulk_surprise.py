@@ -1,32 +1,40 @@
 #!/usr/bin/env python
 
-try:
-    # For Python 3.0 and later
-    from urllib.request import urlopen
-except ImportError:
-    # Fall back to Python 2's urllib2
-    from urllib2 import urlopen
-
-import certifi
-import json
 from decouple import config
 import requests
 
 
 def get_jsonparsed_data(url, YEAR):
+    """
+    Sends a GET request to FMP's Bulk Earning Surprise API and writes the results to a txt file.
+
+    Parameters
+    ----------
+    url : str
+    YEAR : int
+
+    Returns
+    -------
+    None
+    """
     # sending get request and saving the response as response object
-    response = requests.get(url = url)
+    response = requests.get(url=url)
     text_data = response.text
     # Write response to text file
     with open("bulk_suprises_{}.txt".format(YEAR), "w") as text_file:
         text_file.write(text_data)
 
-FMP_API_KEY = config("FMP_API_KEY")
-YEAR = 2020
 
-url = "https://financialmodelingprep.com/api/v4/earnings-surprises-bulk?year={}&apikey={}".format(YEAR, FMP_API_KEY)
-print(url)
-try:
-    data = get_jsonparsed_data(url, YEAR)
-except Exception as e:
-    print(e)
+if __name__ == "__main__":
+    # Pull API key from .env file
+    FMP_API_KEY = config("FMP_API_KEY")
+    # Input: year to pull for bulk endpoint
+    YEAR = 2020
+
+    url = "https://financialmodelingprep.com/api/v4/earnings-surprises-bulk?year={}&apikey={}".format(
+        YEAR, FMP_API_KEY)
+
+    try:
+        data = get_jsonparsed_data(url, YEAR)
+    except Exception as e:
+        print(e)
