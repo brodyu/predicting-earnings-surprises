@@ -6,16 +6,7 @@ import json
 
 def get_jsonparsed_data(url):
     """
-    Sends a GET request to FMP's Bulk Earning Surprise API and writes the results to a txt file.
-
-    Parameters
-    ----------
-    url : str
-    YEAR : int
-
-    Returns
-    -------
-    None
+    Sends a GET request to FMP's Bulk Earning Surprise API and writes the results to a txt file.-
     """
     # sending get request and saving the response as response object
     response = requests.get(url=url)
