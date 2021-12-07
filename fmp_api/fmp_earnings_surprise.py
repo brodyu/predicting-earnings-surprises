@@ -36,9 +36,8 @@ if __name__ == "__main__":
     # Filter missing out rows with missing data
     # Filter reduces dataset from 8202 entries to 3156 entries
     nasdaq_list_filtered = nasdaq_list.dropna()
-    print("---"*7)
     print(nasdaq_list_filtered.info())
-    print("---"*7)
+
     symbols = nasdaq_list_filtered.Symbol
 
     url_list = []
