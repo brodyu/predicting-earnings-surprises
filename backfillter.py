@@ -31,6 +31,12 @@ class BackFillter:
             url = "https://eodhistoricaldata.com/api/eod/{}.US?fmt=json&from={}&to={}&period=d&api_token={}".format(ticker, val, val, self.EOD_API_KEY)
             url_list.append(url)
 
+        # Call FMP API for each URL using Concurrent library
+        # Run takes 211 seconds ... be patient
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            res = [executor.submit(self.get_jsonparsed_data, url) for url in url_list]
+            concurrent.futures.wait(res)
+
         print("Working...")
 
         df = pd.DataFrame()
