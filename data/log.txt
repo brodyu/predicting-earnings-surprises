@@ -1,683 +1,683 @@
-KeyError at index: 244, occurence number: 'historical'
-KeyError at index: 1193, occurence number: 'historical'
-KeyError at index: 1281, occurence number: 'historical'
-KeyError at index: 1572, occurence number: 'historical'
-KeyError at index: 1855, occurence number: 'historical'
-KeyError at index: 2153, occurence number: 'historical'
-KeyError at index: 2274, occurence number: 'historical'
-KeyError at index: 2275, occurence number: 'historical'
-KeyError at index: 2276, occurence number: 'historical'
-KeyError at index: 2277, occurence number: 'historical'
-KeyError at index: 2278, occurence number: 'historical'
-KeyError at index: 2279, occurence number: 'historical'
-KeyError at index: 2280, occurence number: 'historical'
-KeyError at index: 2281, occurence number: 'historical'
-KeyError at index: 2282, occurence number: 'historical'
-KeyError at index: 2283, occurence number: 'historical'
-KeyError at index: 2284, occurence number: 'historical'
-KeyError at index: 2285, occurence number: 'historical'
-KeyError at index: 2286, occurence number: 'historical'
-KeyError at index: 2287, occurence number: 'historical'
-KeyError at index: 2288, occurence number: 'historical'
-KeyError at index: 2289, occurence number: 'historical'
-KeyError at index: 2290, occurence number: 'historical'
-KeyError at index: 2291, occurence number: 'historical'
-KeyError at index: 2292, occurence number: 'historical'
-KeyError at index: 2293, occurence number: 'historical'
-KeyError at index: 2294, occurence number: 'historical'
-KeyError at index: 2295, occurence number: 'historical'
-KeyError at index: 2296, occurence number: 'historical'
-KeyError at index: 2297, occurence number: 'historical'
-KeyError at index: 2298, occurence number: 'historical'
-KeyError at index: 2299, occurence number: 'historical'
-KeyError at index: 2300, occurence number: 'historical'
-KeyError at index: 2301, occurence number: 'historical'
-KeyError at index: 2302, occurence number: 'historical'
-KeyError at index: 2303, occurence number: 'historical'
-KeyError at index: 2304, occurence number: 'historical'
-KeyError at index: 2305, occurence number: 'historical'
-KeyError at index: 2306, occurence number: 'historical'
-KeyError at index: 2307, occurence number: 'historical'
-KeyError at index: 2308, occurence number: 'historical'
-KeyError at index: 2417, occurence number: 'historical'
-KeyError at index: 2418, occurence number: 'historical'
-KeyError at index: 2419, occurence number: 'historical'
-KeyError at index: 2422, occurence number: 'historical'
-KeyError at index: 2424, occurence number: 'historical'
-KeyError at index: 2620, occurence number: 'historical'
-KeyError at index: 2626, occurence number: 'historical'
-KeyError at index: 3367, occurence number: 'historical'
-KeyError at index: 4245, occurence number: 'historical'
-KeyError at index: 4717, occurence number: 'historical'
-KeyError at index: 4784, occurence number: 'historical'
-KeyError at index: 5482, occurence number: 'historical'
-KeyError at index: 5493, occurence number: 'historical'
-KeyError at index: 5797, occurence number: 'historical'
-KeyError at index: 5906, occurence number: 'historical'
-KeyError at index: 6139, occurence number: 'historical'
-KeyError at index: 6158, occurence number: 'historical'
-KeyError at index: 6417, occurence number: 'historical'
-KeyError at index: 6638, occurence number: 'historical'
-KeyError at index: 6640, occurence number: 'historical'
-KeyError at index: 6806, occurence number: 'historical'
-KeyError at index: 6863, occurence number: 'historical'
-KeyError at index: 7024, occurence number: 'historical'
-KeyError at index: 7282, occurence number: 'historical'
-KeyError at index: 7461, occurence number: 'historical'
-KeyError at index: 7666, occurence number: 'historical'
-KeyError at index: 7670, occurence number: 'historical'
-KeyError at index: 7673, occurence number: 'historical'
-KeyError at index: 7677, occurence number: 'historical'
-KeyError at index: 7821, occurence number: 'historical'
-KeyError at index: 8475, occurence number: 'historical'
-KeyError at index: 8545, occurence number: 'historical'
-KeyError at index: 9375, occurence number: 'historical'
-KeyError at index: 9463, occurence number: 'historical'
-KeyError at index: 9588, occurence number: 'historical'
-KeyError at index: 9842, occurence number: 'historical'
-KeyError at index: 10047, occurence number: 'historical'
-KeyError at index: 10142, occurence number: 'historical'
-KeyError at index: 10789, occurence number: 'historical'
-KeyError at index: 10963, occurence number: 'historical'
-KeyError at index: 10965, occurence number: 'historical'
-KeyError at index: 11192, occurence number: 'historical'
-KeyError at index: 11199, occurence number: 'historical'
-KeyError at index: 11342, occurence number: 'historical'
-KeyError at index: 11449, occurence number: 'historical'
-KeyError at index: 11450, occurence number: 'historical'
-KeyError at index: 11451, occurence number: 'historical'
-KeyError at index: 11452, occurence number: 'historical'
-KeyError at index: 11453, occurence number: 'historical'
-KeyError at index: 11454, occurence number: 'historical'
-KeyError at index: 11455, occurence number: 'historical'
-KeyError at index: 11456, occurence number: 'historical'
-KeyError at index: 11457, occurence number: 'historical'
-KeyError at index: 11458, occurence number: 'historical'
-KeyError at index: 11459, occurence number: 'historical'
-KeyError at index: 11460, occurence number: 'historical'
-KeyError at index: 11461, occurence number: 'historical'
-KeyError at index: 11462, occurence number: 'historical'
-KeyError at index: 11463, occurence number: 'historical'
-KeyError at index: 11464, occurence number: 'historical'
-KeyError at index: 11465, occurence number: 'historical'
-KeyError at index: 11466, occurence number: 'historical'
-KeyError at index: 11467, occurence number: 'historical'
-KeyError at index: 11468, occurence number: 'historical'
-KeyError at index: 11578, occurence number: 'historical'
-KeyError at index: 11630, occurence number: 'historical'
-KeyError at index: 12159, occurence number: 'historical'
-KeyError at index: 12230, occurence number: 'historical'
-KeyError at index: 12638, occurence number: 'historical'
-KeyError at index: 12731, occurence number: 'historical'
-KeyError at index: 12852, occurence number: 'historical'
-KeyError at index: 12895, occurence number: 'historical'
-KeyError at index: 12956, occurence number: 'historical'
-KeyError at index: 13129, occurence number: 'historical'
-KeyError at index: 13167, occurence number: 'historical'
-KeyError at index: 13317, occurence number: 'historical'
-KeyError at index: 13380, occurence number: 'historical'
-KeyError at index: 13381, occurence number: 'historical'
-KeyError at index: 13382, occurence number: 'historical'
-KeyError at index: 13695, occurence number: 'historical'
-KeyError at index: 14242, occurence number: 'historical'
-KeyError at index: 14282, occurence number: 'historical'
-KeyError at index: 14457, occurence number: 'historical'
-KeyError at index: 14461, occurence number: 'historical'
-KeyError at index: 14462, occurence number: 'historical'
-KeyError at index: 14577, occurence number: 'historical'
-KeyError at index: 14581, occurence number: 'historical'
-KeyError at index: 14582, occurence number: 'historical'
-KeyError at index: 14583, occurence number: 'historical'
-KeyError at index: 14584, occurence number: 'historical'
-KeyError at index: 14585, occurence number: 'historical'
-KeyError at index: 14586, occurence number: 'historical'
-KeyError at index: 14587, occurence number: 'historical'
-KeyError at index: 14588, occurence number: 'historical'
-KeyError at index: 14589, occurence number: 'historical'
-KeyError at index: 14590, occurence number: 'historical'
-KeyError at index: 14591, occurence number: 'historical'
-KeyError at index: 14592, occurence number: 'historical'
-KeyError at index: 14593, occurence number: 'historical'
-KeyError at index: 14594, occurence number: 'historical'
-KeyError at index: 14595, occurence number: 'historical'
-KeyError at index: 14596, occurence number: 'historical'
-KeyError at index: 14597, occurence number: 'historical'
-KeyError at index: 14598, occurence number: 'historical'
-KeyError at index: 14599, occurence number: 'historical'
-KeyError at index: 14600, occurence number: 'historical'
-KeyError at index: 14601, occurence number: 'historical'
-KeyError at index: 14602, occurence number: 'historical'
-KeyError at index: 14603, occurence number: 'historical'
-KeyError at index: 14604, occurence number: 'historical'
-KeyError at index: 14605, occurence number: 'historical'
-KeyError at index: 14606, occurence number: 'historical'
-KeyError at index: 14607, occurence number: 'historical'
-KeyError at index: 14608, occurence number: 'historical'
-KeyError at index: 14609, occurence number: 'historical'
-KeyError at index: 14610, occurence number: 'historical'
-KeyError at index: 14611, occurence number: 'historical'
-KeyError at index: 14612, occurence number: 'historical'
-KeyError at index: 14613, occurence number: 'historical'
-KeyError at index: 14614, occurence number: 'historical'
-KeyError at index: 14799, occurence number: 'historical'
-KeyError at index: 14852, occurence number: 'historical'
-KeyError at index: 15092, occurence number: 'historical'
-KeyError at index: 15441, occurence number: 'historical'
-KeyError at index: 15908, occurence number: 'historical'
-KeyError at index: 16072, occurence number: 'historical'
-KeyError at index: 16306, occurence number: 'historical'
-KeyError at index: 16307, occurence number: 'historical'
-KeyError at index: 16308, occurence number: 'historical'
-KeyError at index: 16309, occurence number: 'historical'
-KeyError at index: 16310, occurence number: 'historical'
-KeyError at index: 16311, occurence number: 'historical'
-KeyError at index: 16312, occurence number: 'historical'
-KeyError at index: 16313, occurence number: 'historical'
-KeyError at index: 16350, occurence number: 'historical'
-KeyError at index: 16768, occurence number: 'historical'
-KeyError at index: 16921, occurence number: 'historical'
-KeyError at index: 17722, occurence number: 'historical'
-KeyError at index: 17723, occurence number: 'historical'
-KeyError at index: 17724, occurence number: 'historical'
-KeyError at index: 17725, occurence number: 'historical'
-KeyError at index: 17726, occurence number: 'historical'
-KeyError at index: 17727, occurence number: 'historical'
-KeyError at index: 17728, occurence number: 'historical'
-KeyError at index: 17729, occurence number: 'historical'
-KeyError at index: 17730, occurence number: 'historical'
-KeyError at index: 17731, occurence number: 'historical'
-KeyError at index: 17732, occurence number: 'historical'
-KeyError at index: 17733, occurence number: 'historical'
-KeyError at index: 17734, occurence number: 'historical'
-KeyError at index: 17735, occurence number: 'historical'
-KeyError at index: 17736, occurence number: 'historical'
-KeyError at index: 17737, occurence number: 'historical'
-KeyError at index: 17738, occurence number: 'historical'
-KeyError at index: 17739, occurence number: 'historical'
-KeyError at index: 17740, occurence number: 'historical'
-KeyError at index: 17741, occurence number: 'historical'
-KeyError at index: 17742, occurence number: 'historical'
-KeyError at index: 17743, occurence number: 'historical'
-KeyError at index: 17823, occurence number: 'historical'
-KeyError at index: 17863, occurence number: 'historical'
-KeyError at index: 18254, occurence number: 'historical'
-KeyError at index: 18822, occurence number: 'historical'
-KeyError at index: 19030, occurence number: 'historical'
-KeyError at index: 19261, occurence number: 'historical'
-KeyError at index: 19446, occurence number: 'historical'
-KeyError at index: 19450, occurence number: 'historical'
-KeyError at index: 19463, occurence number: 'historical'
-KeyError at index: 19524, occurence number: 'historical'
-KeyError at index: 20276, occurence number: 'historical'
-KeyError at index: 20277, occurence number: 'historical'
-KeyError at index: 20278, occurence number: 'historical'
-KeyError at index: 20279, occurence number: 'historical'
-KeyError at index: 20280, occurence number: 'historical'
-KeyError at index: 20281, occurence number: 'historical'
-KeyError at index: 20282, occurence number: 'historical'
-KeyError at index: 20283, occurence number: 'historical'
-KeyError at index: 20284, occurence number: 'historical'
-KeyError at index: 20285, occurence number: 'historical'
-KeyError at index: 20286, occurence number: 'historical'
-KeyError at index: 20287, occurence number: 'historical'
-KeyError at index: 20288, occurence number: 'historical'
-KeyError at index: 20289, occurence number: 'historical'
-KeyError at index: 20295, occurence number: 'historical'
-KeyError at index: 20296, occurence number: 'historical'
-KeyError at index: 20297, occurence number: 'historical'
-KeyError at index: 20334, occurence number: 'historical'
-KeyError at index: 20571, occurence number: 'historical'
-KeyError at index: 20681, occurence number: 'historical'
-KeyError at index: 21264, occurence number: 'historical'
-KeyError at index: 21820, occurence number: 'historical'
-KeyError at index: 22031, occurence number: 'historical'
-KeyError at index: 22071, occurence number: 'historical'
-KeyError at index: 22246, occurence number: 'historical'
-KeyError at index: 22247, occurence number: 'historical'
-KeyError at index: 22258, occurence number: 'historical'
-KeyError at index: 22260, occurence number: 'historical'
-KeyError at index: 22298, occurence number: 'historical'
-KeyError at index: 22338, occurence number: 'historical'
-KeyError at index: 22384, occurence number: 'historical'
-KeyError at index: 22385, occurence number: 'historical'
-KeyError at index: 22386, occurence number: 'historical'
-KeyError at index: 22387, occurence number: 'historical'
-KeyError at index: 22388, occurence number: 'historical'
-KeyError at index: 22389, occurence number: 'historical'
-KeyError at index: 22390, occurence number: 'historical'
-KeyError at index: 22391, occurence number: 'historical'
-KeyError at index: 22392, occurence number: 'historical'
-KeyError at index: 22393, occurence number: 'historical'
-KeyError at index: 22394, occurence number: 'historical'
-KeyError at index: 22395, occurence number: 'historical'
-KeyError at index: 22396, occurence number: 'historical'
-KeyError at index: 22397, occurence number: 'historical'
-KeyError at index: 22469, occurence number: 'historical'
-KeyError at index: 22498, occurence number: 'historical'
-KeyError at index: 22541, occurence number: 'historical'
-KeyError at index: 22549, occurence number: 'historical'
-KeyError at index: 22553, occurence number: 'historical'
-KeyError at index: 22817, occurence number: 'historical'
-KeyError at index: 22973, occurence number: 'historical'
-KeyError at index: 23296, occurence number: 'historical'
-KeyError at index: 23303, occurence number: 'historical'
-KeyError at index: 23681, occurence number: 'historical'
-KeyError at index: 23900, occurence number: 'historical'
-KeyError at index: 24009, occurence number: 'historical'
-KeyError at index: 24105, occurence number: 'historical'
-KeyError at index: 24106, occurence number: 'historical'
-KeyError at index: 24107, occurence number: 'historical'
-KeyError at index: 24108, occurence number: 'historical'
-KeyError at index: 24276, occurence number: 'historical'
-KeyError at index: 24283, occurence number: 'historical'
-KeyError at index: 24764, occurence number: 'historical'
-KeyError at index: 25113, occurence number: 'historical'
-KeyError at index: 25220, occurence number: 'historical'
-KeyError at index: 25274, occurence number: 'historical'
-KeyError at index: 25452, occurence number: 'historical'
-KeyError at index: 25550, occurence number: 'historical'
-KeyError at index: 26221, occurence number: 'historical'
-KeyError at index: 26832, occurence number: 'historical'
-KeyError at index: 26885, occurence number: 'historical'
-KeyError at index: 26887, occurence number: 'historical'
-KeyError at index: 26969, occurence number: 'historical'
-KeyError at index: 26970, occurence number: 'historical'
-KeyError at index: 27112, occurence number: 'historical'
-KeyError at index: 27113, occurence number: 'historical'
-KeyError at index: 27114, occurence number: 'historical'
-KeyError at index: 27115, occurence number: 'historical'
-KeyError at index: 27116, occurence number: 'historical'
-KeyError at index: 27117, occurence number: 'historical'
-KeyError at index: 27118, occurence number: 'historical'
-KeyError at index: 27119, occurence number: 'historical'
-KeyError at index: 27120, occurence number: 'historical'
-KeyError at index: 27121, occurence number: 'historical'
-KeyError at index: 27122, occurence number: 'historical'
-KeyError at index: 27123, occurence number: 'historical'
-KeyError at index: 27124, occurence number: 'historical'
-KeyError at index: 27125, occurence number: 'historical'
-KeyError at index: 27126, occurence number: 'historical'
-KeyError at index: 27127, occurence number: 'historical'
-KeyError at index: 27239, occurence number: 'historical'
-KeyError at index: 27269, occurence number: 'historical'
-KeyError at index: 27391, occurence number: 'historical'
-KeyError at index: 27431, occurence number: 'historical'
-KeyError at index: 27448, occurence number: 'historical'
-KeyError at index: 27479, occurence number: 'historical'
-KeyError at index: 27739, occurence number: 'historical'
-KeyError at index: 27894, occurence number: 'historical'
-KeyError at index: 28381, occurence number: 'historical'
-KeyError at index: 28519, occurence number: 'historical'
-KeyError at index: 28767, occurence number: 'historical'
-KeyError at index: 28768, occurence number: 'historical'
-KeyError at index: 28769, occurence number: 'historical'
-KeyError at index: 28770, occurence number: 'historical'
-KeyError at index: 28771, occurence number: 'historical'
-KeyError at index: 28772, occurence number: 'historical'
-KeyError at index: 28890, occurence number: 'historical'
-KeyError at index: 29323, occurence number: 'historical'
-KeyError at index: 29494, occurence number: 'historical'
-KeyError at index: 30147, occurence number: 'historical'
-KeyError at index: 30177, occurence number: 'historical'
-KeyError at index: 30268, occurence number: 'historical'
-KeyError at index: 30270, occurence number: 'historical'
-KeyError at index: 30275, occurence number: 'historical'
-KeyError at index: 30396, occurence number: 'historical'
-KeyError at index: 30440, occurence number: 'historical'
-KeyError at index: 30700, occurence number: 'historical'
-KeyError at index: 30909, occurence number: 'historical'
-KeyError at index: 31123, occurence number: 'historical'
-KeyError at index: 31124, occurence number: 'historical'
-KeyError at index: 31125, occurence number: 'historical'
-KeyError at index: 31126, occurence number: 'historical'
-KeyError at index: 31127, occurence number: 'historical'
-KeyError at index: 31128, occurence number: 'historical'
-KeyError at index: 31129, occurence number: 'historical'
-KeyError at index: 31130, occurence number: 'historical'
-KeyError at index: 31131, occurence number: 'historical'
-KeyError at index: 31132, occurence number: 'historical'
-KeyError at index: 31133, occurence number: 'historical'
-KeyError at index: 31134, occurence number: 'historical'
-KeyError at index: 31135, occurence number: 'historical'
-KeyError at index: 31136, occurence number: 'historical'
-KeyError at index: 31137, occurence number: 'historical'
-KeyError at index: 31138, occurence number: 'historical'
-KeyError at index: 31139, occurence number: 'historical'
-KeyError at index: 31140, occurence number: 'historical'
-KeyError at index: 31141, occurence number: 'historical'
-KeyError at index: 31142, occurence number: 'historical'
-KeyError at index: 31143, occurence number: 'historical'
-KeyError at index: 31144, occurence number: 'historical'
-KeyError at index: 31145, occurence number: 'historical'
-KeyError at index: 31326, occurence number: 'historical'
-KeyError at index: 31328, occurence number: 'historical'
-KeyError at index: 31734, occurence number: 'historical'
-KeyError at index: 32238, occurence number: 'historical'
-KeyError at index: 32239, occurence number: 'historical'
-KeyError at index: 32240, occurence number: 'historical'
-KeyError at index: 32241, occurence number: 'historical'
-KeyError at index: 32242, occurence number: 'historical'
-KeyError at index: 32245, occurence number: 'historical'
-KeyError at index: 32246, occurence number: 'historical'
-KeyError at index: 32248, occurence number: 'historical'
-KeyError at index: 32250, occurence number: 'historical'
-KeyError at index: 32252, occurence number: 'historical'
-KeyError at index: 32281, occurence number: 'historical'
-KeyError at index: 32847, occurence number: 'historical'
-KeyError at index: 32927, occurence number: 'historical'
-KeyError at index: 33097, occurence number: 'historical'
-KeyError at index: 33207, occurence number: 'historical'
-KeyError at index: 34242, occurence number: 'historical'
-KeyError at index: 34427, occurence number: 'historical'
-KeyError at index: 34504, occurence number: 'historical'
-KeyError at index: 34537, occurence number: 'historical'
-KeyError at index: 34974, occurence number: 'historical'
-KeyError at index: 34975, occurence number: 'historical'
-KeyError at index: 34976, occurence number: 'historical'
-KeyError at index: 34977, occurence number: 'historical'
-KeyError at index: 34978, occurence number: 'historical'
-KeyError at index: 34979, occurence number: 'historical'
-KeyError at index: 35528, occurence number: 'historical'
-KeyError at index: 35529, occurence number: 'historical'
-KeyError at index: 35530, occurence number: 'historical'
-KeyError at index: 35531, occurence number: 'historical'
-KeyError at index: 35532, occurence number: 'historical'
-KeyError at index: 35583, occurence number: 'historical'
-KeyError at index: 35584, occurence number: 'historical'
-KeyError at index: 35585, occurence number: 'historical'
-KeyError at index: 35586, occurence number: 'historical'
-KeyError at index: 35587, occurence number: 'historical'
-KeyError at index: 35588, occurence number: 'historical'
-KeyError at index: 35589, occurence number: 'historical'
-KeyError at index: 35590, occurence number: 'historical'
-KeyError at index: 35591, occurence number: 'historical'
-KeyError at index: 35592, occurence number: 'historical'
-KeyError at index: 35593, occurence number: 'historical'
-KeyError at index: 35594, occurence number: 'historical'
-KeyError at index: 35595, occurence number: 'historical'
-KeyError at index: 35596, occurence number: 'historical'
-KeyError at index: 35597, occurence number: 'historical'
-KeyError at index: 35598, occurence number: 'historical'
-KeyError at index: 35889, occurence number: 'historical'
-KeyError at index: 35919, occurence number: 'historical'
-KeyError at index: 35920, occurence number: 'historical'
-KeyError at index: 35981, occurence number: 'historical'
-KeyError at index: 35994, occurence number: 'historical'
-KeyError at index: 36001, occurence number: 'historical'
-KeyError at index: 36301, occurence number: 'historical'
-KeyError at index: 36653, occurence number: 'historical'
-KeyError at index: 37286, occurence number: 'historical'
-KeyError at index: 37753, occurence number: 'historical'
-KeyError at index: 37892, occurence number: 'historical'
-KeyError at index: 37909, occurence number: 'historical'
-KeyError at index: 38139, occurence number: 'historical'
-KeyError at index: 38140, occurence number: 'historical'
-KeyError at index: 38246, occurence number: 'historical'
-KeyError at index: 38280, occurence number: 'historical'
-KeyError at index: 38645, occurence number: 'historical'
-KeyError at index: 38807, occurence number: 'historical'
-KeyError at index: 38872, occurence number: 'historical'
-KeyError at index: 38873, occurence number: 'historical'
-KeyError at index: 38875, occurence number: 'historical'
-KeyError at index: 39150, occurence number: 'historical'
-KeyError at index: 39500, occurence number: 'historical'
-KeyError at index: 39851, occurence number: 'historical'
-KeyError at index: 39889, occurence number: 'historical'
-KeyError at index: 40210, occurence number: 'historical'
-KeyError at index: 40225, occurence number: 'historical'
-KeyError at index: 40242, occurence number: 'historical'
-KeyError at index: 40259, occurence number: 'historical'
-KeyError at index: 40276, occurence number: 'historical'
-KeyError at index: 40460, occurence number: 'historical'
-KeyError at index: 40507, occurence number: 'historical'
-KeyError at index: 40781, occurence number: 'historical'
-KeyError at index: 40805, occurence number: 'historical'
-KeyError at index: 40813, occurence number: 'historical'
-KeyError at index: 40856, occurence number: 'historical'
-KeyError at index: 40972, occurence number: 'historical'
-KeyError at index: 40973, occurence number: 'historical'
-KeyError at index: 40974, occurence number: 'historical'
-KeyError at index: 40975, occurence number: 'historical'
-KeyError at index: 40976, occurence number: 'historical'
-KeyError at index: 40977, occurence number: 'historical'
-KeyError at index: 40978, occurence number: 'historical'
-KeyError at index: 40979, occurence number: 'historical'
-KeyError at index: 40980, occurence number: 'historical'
-KeyError at index: 40981, occurence number: 'historical'
-KeyError at index: 40982, occurence number: 'historical'
-KeyError at index: 40983, occurence number: 'historical'
-KeyError at index: 41140, occurence number: 'historical'
-KeyError at index: 41161, occurence number: 'historical'
-KeyError at index: 41163, occurence number: 'historical'
-KeyError at index: 41406, occurence number: 'historical'
-KeyError at index: 41410, occurence number: 'historical'
-KeyError at index: 41414, occurence number: 'historical'
-KeyError at index: 41853, occurence number: 'historical'
-KeyError at index: 41854, occurence number: 'historical'
-KeyError at index: 41855, occurence number: 'historical'
-KeyError at index: 42575, occurence number: 'historical'
-KeyError at index: 42872, occurence number: 'historical'
-KeyError at index: 43340, occurence number: 'historical'
-KeyError at index: 43432, occurence number: 'historical'
-KeyError at index: 43776, occurence number: 'historical'
-KeyError at index: 43873, occurence number: 'historical'
-KeyError at index: 44407, occurence number: 'historical'
-KeyError at index: 45281, occurence number: 'historical'
-KeyError at index: 45298, occurence number: 'historical'
-KeyError at index: 45302, occurence number: 'historical'
-KeyError at index: 45303, occurence number: 'historical'
-KeyError at index: 45304, occurence number: 'historical'
-KeyError at index: 45350, occurence number: 'historical'
-KeyError at index: 45493, occurence number: 'historical'
-KeyError at index: 45872, occurence number: 'historical'
-KeyError at index: 45954, occurence number: 'historical'
-KeyError at index: 46151, occurence number: 'historical'
-KeyError at index: 46158, occurence number: 'historical'
-KeyError at index: 46872, occurence number: 'historical'
-KeyError at index: 46914, occurence number: 'historical'
-KeyError at index: 47360, occurence number: 'historical'
-KeyError at index: 49653, occurence number: 'historical'
-KeyError at index: 49875, occurence number: 'historical'
-KeyError at index: 50722, occurence number: 'historical'
-KeyError at index: 50942, occurence number: 'historical'
-KeyError at index: 50981, occurence number: 'historical'
-KeyError at index: 50984, occurence number: 'historical'
-KeyError at index: 50997, occurence number: 'historical'
-KeyError at index: 51124, occurence number: 'historical'
-KeyError at index: 51306, occurence number: 'historical'
-KeyError at index: 51333, occurence number: 'historical'
-KeyError at index: 51334, occurence number: 'historical'
-KeyError at index: 51335, occurence number: 'historical'
-KeyError at index: 51337, occurence number: 'historical'
-KeyError at index: 51338, occurence number: 'historical'
-KeyError at index: 51339, occurence number: 'historical'
-KeyError at index: 51341, occurence number: 'historical'
-KeyError at index: 51342, occurence number: 'historical'
-KeyError at index: 51345, occurence number: 'historical'
-KeyError at index: 51346, occurence number: 'historical'
-KeyError at index: 51347, occurence number: 'historical'
-KeyError at index: 51348, occurence number: 'historical'
-KeyError at index: 51349, occurence number: 'historical'
-KeyError at index: 51350, occurence number: 'historical'
-KeyError at index: 51351, occurence number: 'historical'
-KeyError at index: 51352, occurence number: 'historical'
-KeyError at index: 51354, occurence number: 'historical'
-KeyError at index: 51355, occurence number: 'historical'
-KeyError at index: 51405, occurence number: 'historical'
-KeyError at index: 51422, occurence number: 'historical'
-KeyError at index: 51423, occurence number: 'historical'
-KeyError at index: 51424, occurence number: 'historical'
-KeyError at index: 51453, occurence number: 'historical'
-KeyError at index: 51537, occurence number: 'historical'
-KeyError at index: 51630, occurence number: 'historical'
-KeyError at index: 51631, occurence number: 'historical'
-KeyError at index: 51632, occurence number: 'historical'
-KeyError at index: 51633, occurence number: 'historical'
-KeyError at index: 51634, occurence number: 'historical'
-KeyError at index: 51635, occurence number: 'historical'
-KeyError at index: 51992, occurence number: 'historical'
-KeyError at index: 51996, occurence number: 'historical'
-KeyError at index: 52000, occurence number: 'historical'
-KeyError at index: 52246, occurence number: 'historical'
-KeyError at index: 52249, occurence number: 'historical'
-KeyError at index: 52307, occurence number: 'historical'
-KeyError at index: 52531, occurence number: 'historical'
-KeyError at index: 52961, occurence number: 'historical'
-KeyError at index: 53070, occurence number: 'historical'
-KeyError at index: 53414, occurence number: 'historical'
-KeyError at index: 53651, occurence number: 'historical'
-KeyError at index: 53655, occurence number: 'historical'
-KeyError at index: 53667, occurence number: 'historical'
-KeyError at index: 53671, occurence number: 'historical'
-KeyError at index: 53675, occurence number: 'historical'
-KeyError at index: 54295, occurence number: 'historical'
-KeyError at index: 54499, occurence number: 'historical'
-KeyError at index: 54682, occurence number: 'historical'
-KeyError at index: 54683, occurence number: 'historical'
-KeyError at index: 54684, occurence number: 'historical'
-KeyError at index: 54810, occurence number: 'historical'
-KeyError at index: 54812, occurence number: 'historical'
-KeyError at index: 55062, occurence number: 'historical'
-KeyError at index: 55476, occurence number: 'historical'
-KeyError at index: 55508, occurence number: 'historical'
-KeyError at index: 55587, occurence number: 'historical'
-KeyError at index: 55621, occurence number: 'historical'
-KeyError at index: 55698, occurence number: 'historical'
-KeyError at index: 55724, occurence number: 'historical'
-KeyError at index: 55877, occurence number: 'historical'
-KeyError at index: 56026, occurence number: 'historical'
-KeyError at index: 56107, occurence number: 'historical'
-KeyError at index: 56697, occurence number: 'historical'
-KeyError at index: 56736, occurence number: 'historical'
-KeyError at index: 56799, occurence number: 'historical'
-KeyError at index: 57127, occurence number: 'historical'
-KeyError at index: 57172, occurence number: 'historical'
-KeyError at index: 57185, occurence number: 'historical'
-KeyError at index: 57374, occurence number: 'historical'
-KeyError at index: 57375, occurence number: 'historical'
-KeyError at index: 57379, occurence number: 'historical'
-KeyError at index: 57380, occurence number: 'historical'
-KeyError at index: 57381, occurence number: 'historical'
-KeyError at index: 57382, occurence number: 'historical'
-KeyError at index: 57383, occurence number: 'historical'
-KeyError at index: 57384, occurence number: 'historical'
-KeyError at index: 57385, occurence number: 'historical'
-KeyError at index: 57386, occurence number: 'historical'
-KeyError at index: 57387, occurence number: 'historical'
-KeyError at index: 57524, occurence number: 'historical'
-KeyError at index: 57525, occurence number: 'historical'
-KeyError at index: 58123, occurence number: 'historical'
-KeyError at index: 58127, occurence number: 'historical'
-KeyError at index: 58153, occurence number: 'historical'
-KeyError at index: 58510, occurence number: 'historical'
-KeyError at index: 58669, occurence number: 'historical'
-KeyError at index: 59592, occurence number: 'historical'
-KeyError at index: 59593, occurence number: 'historical'
-KeyError at index: 59594, occurence number: 'historical'
-KeyError at index: 59595, occurence number: 'historical'
-KeyError at index: 59596, occurence number: 'historical'
-KeyError at index: 59597, occurence number: 'historical'
-KeyError at index: 59598, occurence number: 'historical'
-KeyError at index: 59599, occurence number: 'historical'
-KeyError at index: 59600, occurence number: 'historical'
-KeyError at index: 59601, occurence number: 'historical'
-KeyError at index: 59602, occurence number: 'historical'
-KeyError at index: 59603, occurence number: 'historical'
-KeyError at index: 59604, occurence number: 'historical'
-KeyError at index: 59605, occurence number: 'historical'
-KeyError at index: 59606, occurence number: 'historical'
-KeyError at index: 59607, occurence number: 'historical'
-KeyError at index: 59608, occurence number: 'historical'
-KeyError at index: 59609, occurence number: 'historical'
-KeyError at index: 59610, occurence number: 'historical'
-KeyError at index: 59611, occurence number: 'historical'
-KeyError at index: 59612, occurence number: 'historical'
-KeyError at index: 59613, occurence number: 'historical'
-KeyError at index: 59614, occurence number: 'historical'
-KeyError at index: 59615, occurence number: 'historical'
-KeyError at index: 59616, occurence number: 'historical'
-KeyError at index: 59617, occurence number: 'historical'
-KeyError at index: 59618, occurence number: 'historical'
-KeyError at index: 60018, occurence number: 'historical'
-KeyError at index: 60026, occurence number: 'historical'
-KeyError at index: 60380, occurence number: 'historical'
-KeyError at index: 60455, occurence number: 'historical'
-KeyError at index: 60477, occurence number: 'historical'
-KeyError at index: 60489, occurence number: 'historical'
-KeyError at index: 60622, occurence number: 'historical'
-KeyError at index: 60785, occurence number: 'historical'
-KeyError at index: 60789, occurence number: 'historical'
-KeyError at index: 60793, occurence number: 'historical'
-KeyError at index: 61305, occurence number: 'historical'
-KeyError at index: 61377, occurence number: 'historical'
-KeyError at index: 61860, occurence number: 'historical'
-KeyError at index: 62445, occurence number: 'historical'
-KeyError at index: 62960, occurence number: 'historical'
-KeyError at index: 63180, occurence number: 'historical'
-KeyError at index: 63183, occurence number: 'historical'
-KeyError at index: 63185, occurence number: 'historical'
-KeyError at index: 63200, occurence number: 'historical'
-KeyError at index: 63308, occurence number: 'historical'
-KeyError at index: 63828, occurence number: 'historical'
-KeyError at index: 63884, occurence number: 'historical'
-KeyError at index: 64751, occurence number: 'historical'
-KeyError at index: 65870, occurence number: 'historical'
-KeyError at index: 66218, occurence number: 'historical'
-KeyError at index: 66433, occurence number: 'historical'
-KeyError at index: 66661, occurence number: 'historical'
-KeyError at index: 66762, occurence number: 'historical'
-KeyError at index: 66907, occurence number: 'historical'
-KeyError at index: 67025, occurence number: 'historical'
-KeyError at index: 67399, occurence number: 'historical'
-KeyError at index: 67684, occurence number: 'historical'
-KeyError at index: 68106, occurence number: 'historical'
-KeyError at index: 68499, occurence number: 'historical'
-KeyError at index: 68811, occurence number: 'historical'
-KeyError at index: 68946, occurence number: 'historical'
-KeyError at index: 69269, occurence number: 'historical'
-KeyError at index: 69414, occurence number: 'historical'
-KeyError at index: 69951, occurence number: 'historical'
-KeyError at index: 70002, occurence number: 'historical'
-KeyError at index: 70163, occurence number: 'historical'
-KeyError at index: 70283, occurence number: 'historical'
-KeyError at index: 70372, occurence number: 'historical'
-KeyError at index: 72000, occurence number: 'historical'
-KeyError at index: 72049, occurence number: 'historical'
-KeyError at index: 72057, occurence number: 'historical'
-KeyError at index: 72061, occurence number: 'historical'
-KeyError at index: 72180, occurence number: 'historical'
-KeyError at index: 72686, occurence number: 'historical'
-KeyError at index: 72771, occurence number: 'historical'
-KeyError at index: 72776, occurence number: 'historical'
-KeyError at index: 72777, occurence number: 'historical'
-KeyError at index: 72925, occurence number: 'historical'
-KeyError at index: 74210, occurence number: 'historical'
-KeyError at index: 74839, occurence number: 'historical'
-KeyError at index: 74840, occurence number: 'historical'
-KeyError at index: 74841, occurence number: 'historical'
-KeyError at index: 74842, occurence number: 'historical'
-KeyError at index: 74843, occurence number: 'historical'
-KeyError at index: 74844, occurence number: 'historical'
-KeyError at index: 74845, occurence number: 'historical'
-KeyError at index: 74846, occurence number: 'historical'
-KeyError at index: 74847, occurence number: 'historical'
-KeyError at index: 74848, occurence number: 'historical'
-KeyError at index: 74849, occurence number: 'historical'
-KeyError at index: 74850, occurence number: 'historical'
-KeyError at index: 74851, occurence number: 'historical'
-KeyError at index: 74852, occurence number: 'historical'
-KeyError at index: 74984, occurence number: 'historical'
-KeyError at index: 75181, occurence number: 'historical'
-KeyError at index: 75196, occurence number: 'historical'
-KeyError at index: 75261, occurence number: 'historical'
-KeyError at index: 75264, occurence number: 'historical'
-KeyError at index: 75301, occurence number: 'historical'
-KeyError at index: 75320, occurence number: 'historical'
-KeyError at index: 75321, occurence number: 'historical'
-KeyError at index: 75432, occurence number: 'historical'
-KeyError at index: 75580, occurence number: 'historical'
-KeyError at index: 75911, occurence number: 'historical'
-KeyError at index: 76163, occurence number: 'historical'
-KeyError at index: 76177, occurence number: 'historical'
-KeyError at index: 76406, occurence number: 'historical'
+KeyError at index: 244, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 1
+KeyError at index: 1193, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 2
+KeyError at index: 1281, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 3
+KeyError at index: 1572, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 4
+KeyError at index: 1855, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 5
+KeyError at index: 2153, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 6
+KeyError at index: 2274, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 7
+KeyError at index: 2275, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 8
+KeyError at index: 2276, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 9
+KeyError at index: 2277, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 10
+KeyError at index: 2278, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 11
+KeyError at index: 2279, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 12
+KeyError at index: 2280, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 13
+KeyError at index: 2281, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 14
+KeyError at index: 2282, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 15
+KeyError at index: 2283, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 16
+KeyError at index: 2284, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 17
+KeyError at index: 2285, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 18
+KeyError at index: 2286, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 19
+KeyError at index: 2287, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 20
+KeyError at index: 2288, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 21
+KeyError at index: 2289, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 22
+KeyError at index: 2290, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 23
+KeyError at index: 2291, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 24
+KeyError at index: 2292, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 25
+KeyError at index: 2293, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 26
+KeyError at index: 2294, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 27
+KeyError at index: 2295, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 28
+KeyError at index: 2296, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 29
+KeyError at index: 2297, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 30
+KeyError at index: 2298, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 31
+KeyError at index: 2299, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 32
+KeyError at index: 2300, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 33
+KeyError at index: 2301, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 34
+KeyError at index: 2302, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 35
+KeyError at index: 2303, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 36
+KeyError at index: 2304, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 37
+KeyError at index: 2305, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 38
+KeyError at index: 2306, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 39
+KeyError at index: 2307, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 40
+KeyError at index: 2308, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 41
+KeyError at index: 2417, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 42
+KeyError at index: 2418, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 43
+KeyError at index: 2419, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 44
+KeyError at index: 2422, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 45
+KeyError at index: 2424, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 46
+KeyError at index: 2620, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 47
+KeyError at index: 2626, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 48
+KeyError at index: 3367, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 49
+KeyError at index: 4245, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 50
+KeyError at index: 4717, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 51
+KeyError at index: 4784, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 52
+KeyError at index: 5482, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 53
+KeyError at index: 5493, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 54
+KeyError at index: 5797, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 55
+KeyError at index: 5906, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 56
+KeyError at index: 6139, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 57
+KeyError at index: 6158, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 58
+KeyError at index: 6417, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 59
+KeyError at index: 6638, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 60
+KeyError at index: 6640, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 61
+KeyError at index: 6806, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 62
+KeyError at index: 6863, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 63
+KeyError at index: 7024, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 64
+KeyError at index: 7282, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 65
+KeyError at index: 7461, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 66
+KeyError at index: 7666, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 67
+KeyError at index: 7670, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 68
+KeyError at index: 7673, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 69
+KeyError at index: 7677, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 70
+KeyError at index: 7821, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 71
+KeyError at index: 8475, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 72
+KeyError at index: 8545, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 73
+KeyError at index: 9375, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 74
+KeyError at index: 9463, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 75
+KeyError at index: 9588, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 76
+KeyError at index: 9842, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 77
+KeyError at index: 10047, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 78
+KeyError at index: 10142, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 79
+KeyError at index: 10789, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 80
+KeyError at index: 10963, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 81
+KeyError at index: 10965, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 82
+KeyError at index: 11192, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 83
+KeyError at index: 11199, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 84
+KeyError at index: 11342, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 85
+KeyError at index: 11449, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 86
+KeyError at index: 11450, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 87
+KeyError at index: 11451, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 88
+KeyError at index: 11452, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 89
+KeyError at index: 11453, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 90
+KeyError at index: 11454, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 91
+KeyError at index: 11455, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 92
+KeyError at index: 11456, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 93
+KeyError at index: 11457, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 94
+KeyError at index: 11458, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 95
+KeyError at index: 11459, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 96
+KeyError at index: 11460, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 97
+KeyError at index: 11461, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 98
+KeyError at index: 11462, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 99
+KeyError at index: 11463, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 100
+KeyError at index: 11464, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 101
+KeyError at index: 11465, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 102
+KeyError at index: 11466, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 103
+KeyError at index: 11467, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 104
+KeyError at index: 11468, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 105
+KeyError at index: 11578, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 106
+KeyError at index: 11630, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 107
+KeyError at index: 12159, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 108
+KeyError at index: 12230, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 109
+KeyError at index: 12638, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 110
+KeyError at index: 12731, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 111
+KeyError at index: 12852, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 112
+KeyError at index: 12895, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 113
+KeyError at index: 12956, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 114
+KeyError at index: 13129, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 115
+KeyError at index: 13167, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 116
+KeyError at index: 13317, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 117
+KeyError at index: 13380, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 118
+KeyError at index: 13381, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 119
+KeyError at index: 13382, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 120
+KeyError at index: 13695, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 121
+KeyError at index: 14242, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 122
+KeyError at index: 14282, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 123
+KeyError at index: 14457, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 124
+KeyError at index: 14461, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 125
+KeyError at index: 14462, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 126
+KeyError at index: 14577, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 127
+KeyError at index: 14581, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 128
+KeyError at index: 14582, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 129
+KeyError at index: 14583, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 130
+KeyError at index: 14584, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 131
+KeyError at index: 14585, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 132
+KeyError at index: 14586, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 133
+KeyError at index: 14587, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 134
+KeyError at index: 14588, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 135
+KeyError at index: 14589, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 136
+KeyError at index: 14590, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 137
+KeyError at index: 14591, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 138
+KeyError at index: 14592, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 139
+KeyError at index: 14593, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 140
+KeyError at index: 14594, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 141
+KeyError at index: 14595, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 142
+KeyError at index: 14596, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 143
+KeyError at index: 14597, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 144
+KeyError at index: 14598, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 145
+KeyError at index: 14599, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 146
+KeyError at index: 14600, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 147
+KeyError at index: 14601, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 148
+KeyError at index: 14602, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 149
+KeyError at index: 14603, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 150
+KeyError at index: 14604, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 151
+KeyError at index: 14605, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 152
+KeyError at index: 14606, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 153
+KeyError at index: 14607, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 154
+KeyError at index: 14608, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 155
+KeyError at index: 14609, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 156
+KeyError at index: 14610, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 157
+KeyError at index: 14611, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 158
+KeyError at index: 14612, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 159
+KeyError at index: 14613, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 160
+KeyError at index: 14614, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 161
+KeyError at index: 14799, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 162
+KeyError at index: 14852, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 163
+KeyError at index: 15092, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 164
+KeyError at index: 15441, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 165
+KeyError at index: 15908, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 166
+KeyError at index: 16072, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 167
+KeyError at index: 16306, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 168
+KeyError at index: 16307, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 169
+KeyError at index: 16308, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 170
+KeyError at index: 16309, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 171
+KeyError at index: 16310, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 172
+KeyError at index: 16311, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 173
+KeyError at index: 16312, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 174
+KeyError at index: 16313, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 175
+KeyError at index: 16350, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 176
+KeyError at index: 16768, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 177
+KeyError at index: 16921, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 178
+KeyError at index: 17722, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 179
+KeyError at index: 17723, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 180
+KeyError at index: 17724, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 181
+KeyError at index: 17725, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 182
+KeyError at index: 17726, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 183
+KeyError at index: 17727, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 184
+KeyError at index: 17728, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 185
+KeyError at index: 17729, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 186
+KeyError at index: 17730, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 187
+KeyError at index: 17731, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 188
+KeyError at index: 17732, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 189
+KeyError at index: 17733, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 190
+KeyError at index: 17734, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 191
+KeyError at index: 17735, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 192
+KeyError at index: 17736, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 193
+KeyError at index: 17737, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 194
+KeyError at index: 17738, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 195
+KeyError at index: 17739, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 196
+KeyError at index: 17740, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 197
+KeyError at index: 17741, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 198
+KeyError at index: 17742, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 199
+KeyError at index: 17743, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 200
+KeyError at index: 17823, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 201
+KeyError at index: 17863, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 202
+KeyError at index: 18254, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 203
+KeyError at index: 18822, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 204
+KeyError at index: 19030, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 205
+KeyError at index: 19261, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 206
+KeyError at index: 19446, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 207
+KeyError at index: 19450, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 208
+KeyError at index: 19463, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 209
+KeyError at index: 19524, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 210
+KeyError at index: 20276, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 211
+KeyError at index: 20277, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 212
+KeyError at index: 20278, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 213
+KeyError at index: 20279, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 214
+KeyError at index: 20280, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 215
+KeyError at index: 20281, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 216
+KeyError at index: 20282, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 217
+KeyError at index: 20283, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 218
+KeyError at index: 20284, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 219
+KeyError at index: 20285, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 220
+KeyError at index: 20286, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 221
+KeyError at index: 20287, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 222
+KeyError at index: 20288, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 223
+KeyError at index: 20289, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 224
+KeyError at index: 20295, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 225
+KeyError at index: 20296, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 226
+KeyError at index: 20297, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 227
+KeyError at index: 20334, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 228
+KeyError at index: 20571, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 229
+KeyError at index: 20681, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 230
+KeyError at index: 21264, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 231
+KeyError at index: 21820, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 232
+KeyError at index: 22031, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 233
+KeyError at index: 22071, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 234
+KeyError at index: 22246, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 235
+KeyError at index: 22247, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 236
+KeyError at index: 22258, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 237
+KeyError at index: 22260, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 238
+KeyError at index: 22298, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 239
+KeyError at index: 22338, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 240
+KeyError at index: 22384, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 241
+KeyError at index: 22385, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 242
+KeyError at index: 22386, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 243
+KeyError at index: 22387, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 244
+KeyError at index: 22388, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 245
+KeyError at index: 22389, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 246
+KeyError at index: 22390, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 247
+KeyError at index: 22391, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 248
+KeyError at index: 22392, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 249
+KeyError at index: 22393, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 250
+KeyError at index: 22394, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 251
+KeyError at index: 22395, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 252
+KeyError at index: 22396, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 253
+KeyError at index: 22397, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 254
+KeyError at index: 22469, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 255
+KeyError at index: 22498, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 256
+KeyError at index: 22541, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 257
+KeyError at index: 22549, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 258
+KeyError at index: 22553, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 259
+KeyError at index: 22817, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 260
+KeyError at index: 22973, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 261
+KeyError at index: 23296, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 262
+KeyError at index: 23303, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 263
+KeyError at index: 23681, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 264
+KeyError at index: 23900, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 265
+KeyError at index: 24009, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 266
+KeyError at index: 24105, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 267
+KeyError at index: 24106, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 268
+KeyError at index: 24107, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 269
+KeyError at index: 24108, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 270
+KeyError at index: 24276, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 271
+KeyError at index: 24283, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 272
+KeyError at index: 24764, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 273
+KeyError at index: 25113, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 274
+KeyError at index: 25220, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 275
+KeyError at index: 25274, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 276
+KeyError at index: 25452, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 277
+KeyError at index: 25550, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 278
+KeyError at index: 26221, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 279
+KeyError at index: 26832, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 280
+KeyError at index: 26885, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 281
+KeyError at index: 26887, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 282
+KeyError at index: 26969, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 283
+KeyError at index: 26970, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 284
+KeyError at index: 27112, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 285
+KeyError at index: 27113, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 286
+KeyError at index: 27114, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 287
+KeyError at index: 27115, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 288
+KeyError at index: 27116, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 289
+KeyError at index: 27117, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 290
+KeyError at index: 27118, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 291
+KeyError at index: 27119, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 292
+KeyError at index: 27120, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 293
+KeyError at index: 27121, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 294
+KeyError at index: 27122, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 295
+KeyError at index: 27123, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 296
+KeyError at index: 27124, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 297
+KeyError at index: 27125, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 298
+KeyError at index: 27126, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 299
+KeyError at index: 27127, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 300
+KeyError at index: 27239, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 301
+KeyError at index: 27269, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 302
+KeyError at index: 27391, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 303
+KeyError at index: 27431, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 304
+KeyError at index: 27448, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 305
+KeyError at index: 27479, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 306
+KeyError at index: 27739, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 307
+KeyError at index: 27894, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 308
+KeyError at index: 28381, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 309
+KeyError at index: 28519, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 310
+KeyError at index: 28767, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 311
+KeyError at index: 28768, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 312
+KeyError at index: 28769, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 313
+KeyError at index: 28770, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 314
+KeyError at index: 28771, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 315
+KeyError at index: 28772, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 316
+KeyError at index: 28890, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 317
+KeyError at index: 29323, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 318
+KeyError at index: 29494, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 319
+KeyError at index: 30147, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 320
+KeyError at index: 30177, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 321
+KeyError at index: 30268, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 322
+KeyError at index: 30270, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 323
+KeyError at index: 30275, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 324
+KeyError at index: 30396, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 325
+KeyError at index: 30440, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 326
+KeyError at index: 30700, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 327
+KeyError at index: 30909, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 328
+KeyError at index: 31123, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 329
+KeyError at index: 31124, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 330
+KeyError at index: 31125, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 331
+KeyError at index: 31126, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 332
+KeyError at index: 31127, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 333
+KeyError at index: 31128, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 334
+KeyError at index: 31129, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 335
+KeyError at index: 31130, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 336
+KeyError at index: 31131, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 337
+KeyError at index: 31132, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 338
+KeyError at index: 31133, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 339
+KeyError at index: 31134, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 340
+KeyError at index: 31135, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 341
+KeyError at index: 31136, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 342
+KeyError at index: 31137, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 343
+KeyError at index: 31138, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 344
+KeyError at index: 31139, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 345
+KeyError at index: 31140, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 346
+KeyError at index: 31141, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 347
+KeyError at index: 31142, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 348
+KeyError at index: 31143, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 349
+KeyError at index: 31144, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 350
+KeyError at index: 31145, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 351
+KeyError at index: 31326, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 352
+KeyError at index: 31328, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 353
+KeyError at index: 31734, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 354
+KeyError at index: 32238, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 355
+KeyError at index: 32239, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 356
+KeyError at index: 32240, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 357
+KeyError at index: 32241, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 358
+KeyError at index: 32242, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 359
+KeyError at index: 32245, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 360
+KeyError at index: 32246, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 361
+KeyError at index: 32248, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 362
+KeyError at index: 32250, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 363
+KeyError at index: 32252, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 364
+KeyError at index: 32281, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 365
+KeyError at index: 32847, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 366
+KeyError at index: 32927, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 367
+KeyError at index: 33097, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 368
+KeyError at index: 33207, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 369
+KeyError at index: 34242, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 370
+KeyError at index: 34427, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 371
+KeyError at index: 34504, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 372
+KeyError at index: 34537, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 373
+KeyError at index: 34974, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 374
+KeyError at index: 34975, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 375
+KeyError at index: 34976, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 376
+KeyError at index: 34977, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 377
+KeyError at index: 34978, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 378
+KeyError at index: 34979, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 379
+KeyError at index: 35528, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 380
+KeyError at index: 35529, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 381
+KeyError at index: 35530, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 382
+KeyError at index: 35531, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 383
+KeyError at index: 35532, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 384
+KeyError at index: 35583, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 385
+KeyError at index: 35584, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 386
+KeyError at index: 35585, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 387
+KeyError at index: 35586, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 388
+KeyError at index: 35587, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 389
+KeyError at index: 35588, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 390
+KeyError at index: 35589, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 391
+KeyError at index: 35590, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 392
+KeyError at index: 35591, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 393
+KeyError at index: 35592, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 394
+KeyError at index: 35593, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 395
+KeyError at index: 35594, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 396
+KeyError at index: 35595, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 397
+KeyError at index: 35596, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 398
+KeyError at index: 35597, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 399
+KeyError at index: 35598, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 400
+KeyError at index: 35889, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 401
+KeyError at index: 35919, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 402
+KeyError at index: 35920, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 403
+KeyError at index: 35981, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 404
+KeyError at index: 35994, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 405
+KeyError at index: 36001, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 406
+KeyError at index: 36301, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 407
+KeyError at index: 36653, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 408
+KeyError at index: 37286, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 409
+KeyError at index: 37753, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 410
+KeyError at index: 37892, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 411
+KeyError at index: 37909, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 412
+KeyError at index: 38139, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 413
+KeyError at index: 38140, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 414
+KeyError at index: 38246, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 415
+KeyError at index: 38280, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 416
+KeyError at index: 38645, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 417
+KeyError at index: 38807, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 418
+KeyError at index: 38872, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 419
+KeyError at index: 38873, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 420
+KeyError at index: 38875, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 421
+KeyError at index: 39150, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 422
+KeyError at index: 39500, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 423
+KeyError at index: 39851, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 424
+KeyError at index: 39889, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 425
+KeyError at index: 40210, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 426
+KeyError at index: 40225, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 427
+KeyError at index: 40242, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 428
+KeyError at index: 40259, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 429
+KeyError at index: 40276, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 430
+KeyError at index: 40460, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 431
+KeyError at index: 40507, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 432
+KeyError at index: 40781, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 433
+KeyError at index: 40805, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 434
+KeyError at index: 40813, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 435
+KeyError at index: 40856, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 436
+KeyError at index: 40972, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 437
+KeyError at index: 40973, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 438
+KeyError at index: 40974, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 439
+KeyError at index: 40975, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 440
+KeyError at index: 40976, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 441
+KeyError at index: 40977, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 442
+KeyError at index: 40978, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 443
+KeyError at index: 40979, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 444
+KeyError at index: 40980, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 445
+KeyError at index: 40981, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 446
+KeyError at index: 40982, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 447
+KeyError at index: 40983, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 448
+KeyError at index: 41140, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 449
+KeyError at index: 41161, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 450
+KeyError at index: 41163, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 451
+KeyError at index: 41406, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 452
+KeyError at index: 41410, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 453
+KeyError at index: 41414, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 454
+KeyError at index: 41853, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 455
+KeyError at index: 41854, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 456
+KeyError at index: 41855, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 457
+KeyError at index: 42575, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 458
+KeyError at index: 42872, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 459
+KeyError at index: 43340, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 460
+KeyError at index: 43432, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 461
+KeyError at index: 43776, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 462
+KeyError at index: 43873, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 463
+KeyError at index: 44407, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 464
+KeyError at index: 45281, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 465
+KeyError at index: 45298, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 466
+KeyError at index: 45302, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 467
+KeyError at index: 45303, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 468
+KeyError at index: 45304, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 469
+KeyError at index: 45350, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 470
+KeyError at index: 45493, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 471
+KeyError at index: 45872, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 472
+KeyError at index: 45954, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 473
+KeyError at index: 46151, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 474
+KeyError at index: 46158, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 475
+KeyError at index: 46872, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 476
+KeyError at index: 46914, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 477
+KeyError at index: 47360, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 478
+KeyError at index: 49653, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 479
+KeyError at index: 49875, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 480
+KeyError at index: 50722, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 481
+KeyError at index: 50942, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 482
+KeyError at index: 50981, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 483
+KeyError at index: 50984, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 484
+KeyError at index: 50997, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 485
+KeyError at index: 51124, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 486
+KeyError at index: 51306, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 487
+KeyError at index: 51333, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 488
+KeyError at index: 51334, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 489
+KeyError at index: 51335, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 490
+KeyError at index: 51337, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 491
+KeyError at index: 51338, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 492
+KeyError at index: 51339, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 493
+KeyError at index: 51341, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 494
+KeyError at index: 51342, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 495
+KeyError at index: 51345, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 496
+KeyError at index: 51346, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 497
+KeyError at index: 51347, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 498
+KeyError at index: 51348, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 499
+KeyError at index: 51349, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 500
+KeyError at index: 51350, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 501
+KeyError at index: 51351, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 502
+KeyError at index: 51352, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 503
+KeyError at index: 51354, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 504
+KeyError at index: 51355, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 505
+KeyError at index: 51405, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 506
+KeyError at index: 51422, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 507
+KeyError at index: 51423, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 508
+KeyError at index: 51424, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 509
+KeyError at index: 51453, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 510
+KeyError at index: 51537, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 511
+KeyError at index: 51630, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 512
+KeyError at index: 51631, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 513
+KeyError at index: 51632, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 514
+KeyError at index: 51633, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 515
+KeyError at index: 51634, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 516
+KeyError at index: 51635, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 517
+KeyError at index: 51992, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 518
+KeyError at index: 51996, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 519
+KeyError at index: 52000, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 520
+KeyError at index: 52246, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 521
+KeyError at index: 52249, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 522
+KeyError at index: 52307, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 523
+KeyError at index: 52531, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 524
+KeyError at index: 52961, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 525
+KeyError at index: 53070, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 526
+KeyError at index: 53414, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 527
+KeyError at index: 53651, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 528
+KeyError at index: 53655, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 529
+KeyError at index: 53667, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 530
+KeyError at index: 53671, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 531
+KeyError at index: 53675, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 532
+KeyError at index: 54295, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 533
+KeyError at index: 54499, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 534
+KeyError at index: 54682, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 535
+KeyError at index: 54683, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 536
+KeyError at index: 54684, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 537
+KeyError at index: 54810, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 538
+KeyError at index: 54812, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 539
+KeyError at index: 55062, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 540
+KeyError at index: 55476, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 541
+KeyError at index: 55508, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 542
+KeyError at index: 55587, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 543
+KeyError at index: 55621, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 544
+KeyError at index: 55698, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 545
+KeyError at index: 55724, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 546
+KeyError at index: 55877, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 547
+KeyError at index: 56026, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 548
+KeyError at index: 56107, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 549
+KeyError at index: 56697, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 550
+KeyError at index: 56736, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 551
+KeyError at index: 56799, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 552
+KeyError at index: 57127, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 553
+KeyError at index: 57172, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 554
+KeyError at index: 57185, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 555
+KeyError at index: 57374, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 556
+KeyError at index: 57375, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 557
+KeyError at index: 57379, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 558
+KeyError at index: 57380, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 559
+KeyError at index: 57381, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 560
+KeyError at index: 57382, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 561
+KeyError at index: 57383, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 562
+KeyError at index: 57384, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 563
+KeyError at index: 57385, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 564
+KeyError at index: 57386, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 565
+KeyError at index: 57387, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 566
+KeyError at index: 57524, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 567
+KeyError at index: 57525, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 568
+KeyError at index: 58123, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 569
+KeyError at index: 58127, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 570
+KeyError at index: 58153, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 571
+KeyError at index: 58510, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 572
+KeyError at index: 58669, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 573
+KeyError at index: 59592, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 574
+KeyError at index: 59593, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 575
+KeyError at index: 59594, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 576
+KeyError at index: 59595, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 577
+KeyError at index: 59596, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 578
+KeyError at index: 59597, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 579
+KeyError at index: 59598, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 580
+KeyError at index: 59599, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 581
+KeyError at index: 59600, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 582
+KeyError at index: 59601, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 583
+KeyError at index: 59602, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 584
+KeyError at index: 59603, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 585
+KeyError at index: 59604, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 586
+KeyError at index: 59605, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 587
+KeyError at index: 59606, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 588
+KeyError at index: 59607, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 589
+KeyError at index: 59608, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 590
+KeyError at index: 59609, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 591
+KeyError at index: 59610, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 592
+KeyError at index: 59611, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 593
+KeyError at index: 59612, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 594
+KeyError at index: 59613, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 595
+KeyError at index: 59614, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 596
+KeyError at index: 59615, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 597
+KeyError at index: 59616, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 598
+KeyError at index: 59617, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 599
+KeyError at index: 59618, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 600
+KeyError at index: 60018, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 601
+KeyError at index: 60026, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 602
+KeyError at index: 60380, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 603
+KeyError at index: 60455, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 604
+KeyError at index: 60477, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 605
+KeyError at index: 60489, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 606
+KeyError at index: 60622, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 607
+KeyError at index: 60785, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 608
+KeyError at index: 60789, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 609
+KeyError at index: 60793, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 610
+KeyError at index: 61305, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 611
+KeyError at index: 61377, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 612
+KeyError at index: 61860, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 613
+KeyError at index: 62445, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 614
+KeyError at index: 62960, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 615
+KeyError at index: 63180, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 616
+KeyError at index: 63183, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 617
+KeyError at index: 63185, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 618
+KeyError at index: 63200, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 619
+KeyError at index: 63308, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 620
+KeyError at index: 63828, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 621
+KeyError at index: 63884, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 622
+KeyError at index: 64751, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 623
+KeyError at index: 65870, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 624
+KeyError at index: 66218, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 625
+KeyError at index: 66433, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 626
+KeyError at index: 66661, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 627
+KeyError at index: 66762, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 628
+KeyError at index: 66907, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 629
+KeyError at index: 67025, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 630
+KeyError at index: 67399, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 631
+KeyError at index: 67684, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 632
+KeyError at index: 68106, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 633
+KeyError at index: 68499, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 634
+KeyError at index: 68811, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 635
+KeyError at index: 68946, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 636
+KeyError at index: 69269, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 637
+KeyError at index: 69414, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 638
+KeyError at index: 69951, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 639
+KeyError at index: 70002, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 640
+KeyError at index: 70163, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 641
+KeyError at index: 70283, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 642
+KeyError at index: 70372, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 643
+KeyError at index: 72000, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 644
+KeyError at index: 72049, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 645
+KeyError at index: 72057, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 646
+KeyError at index: 72061, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 647
+KeyError at index: 72180, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 648
+KeyError at index: 72686, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 649
+KeyError at index: 72771, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 650
+KeyError at index: 72776, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 651
+KeyError at index: 72777, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 652
+KeyError at index: 72925, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 653
+KeyError at index: 74210, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 654
+KeyError at index: 74839, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 655
+KeyError at index: 74840, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 656
+KeyError at index: 74841, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 657
+KeyError at index: 74842, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 658
+KeyError at index: 74843, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 659
+KeyError at index: 74844, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 660
+KeyError at index: 74845, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 661
+KeyError at index: 74846, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 662
+KeyError at index: 74847, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 663
+KeyError at index: 74848, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 664
+KeyError at index: 74849, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 665
+KeyError at index: 74850, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 666
+KeyError at index: 74851, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 667
+KeyError at index: 74852, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 668
+KeyError at index: 74984, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 669
+KeyError at index: 75181, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 670
+KeyError at index: 75196, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 671
+KeyError at index: 75261, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 672
+KeyError at index: 75264, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 673
+KeyError at index: 75301, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 674
+KeyError at index: 75320, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 675
+KeyError at index: 75321, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 676
+KeyError at index: 75432, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 677
+KeyError at index: 75580, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 678
+KeyError at index: 75911, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 679
+KeyError at index: 76163, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 680
+KeyError at index: 76177, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 681
+KeyError at index: 76406, url: https://financialmodelingprep.com/api/v3/historical-price-full/ZWS?from=2021-10-26&to=2021-10-26&apikey=27b22eaf1da323edd446b26a3ce6203d, occurence number: 682
 There were 0 stocks skipped.
