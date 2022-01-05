@@ -23,7 +23,6 @@ class BackFillter:
         start_time = time.time()
         earnings_df = pd.read_csv("data/historical_earnings.csv")
         dates = earnings_df["date"]
-        print(earnings_df.symbol[0])
 
         # Build a list of url's that we will make API requests to:
         url_list = []
@@ -36,6 +35,7 @@ class BackFillter:
 
         df = pd.DataFrame()
         ve_num = 0
+        ce_num = 0
 
         # URL subset for testing
         # urls = url_list[:3]
@@ -43,16 +43,23 @@ class BackFillter:
         for idx, val in enumerate(url_list):
             try: 
                 print("Current Iteration: {}".format(idx))
+                ticker = earnings_df.symbol[idx]
                 data = self.get_jsonparsed_data(val)
                 # Convert to dataframe
                 res_df = pd.DataFrame.from_records(data)
+                res_df.insert(0, "Symbol", ticker)
                 df = pd.concat([df, res_df], ignore_index=True)
                 print("--- %s seconds ---" % (time.time() - start_time))
             # If value error occurs skip the stock
-            except ValueError as e:
+            except ValueError as ve:
                 ve_num += 1
                 print("ValueError encountered...")
                 print("Current ValueError count: {}".format(ve_num))
+                pass
+            except ConnectionError as ce:
+                ce_num += 1
+                print("ConnectionError encountered...")
+                print("Current ConnectionError count: {}".format(ve_num))
                 pass
         return df
 
