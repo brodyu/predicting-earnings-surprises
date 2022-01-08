@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from flask import Flask
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
@@ -8,10 +8,9 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    # TODO: Render HTML template with render_template method
-    pass
+    return render_template("index.html")
 
-@app.route('predict', methods=['POST', 'GET'])
+@app.route('/predict', methods=['POST', 'GET'])
 def predict():
     pass
 
