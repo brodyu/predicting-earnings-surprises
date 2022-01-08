@@ -33,7 +33,7 @@ class BackFillter:
 
         url_list = []
         for idx, val in enumerate(symbols):
-            url = "https://financialmodelingprep.com/api/v3/historical/earning_calendar/{}?limit=80&apikey={}".format(val, FMP_API_KEY)
+            url = "https://financialmodelingprep.com/api/v3/historical/earning_calendar/{}?limit=80&apikey={}".format(val, self.FMP_API_KEY)
             url_list.append(url)
         
         # Call FMP API for each URL using Concurrent library
