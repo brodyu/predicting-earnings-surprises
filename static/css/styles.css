@@ -1,0 +1,23 @@
+.ui.large.menu {
+    font-size: 1.5rem;
+}
+
+.ui.text.container .ui.header {
+    font-size: 3em;
+}
+
+.masthead h1.ui.header {
+    margin-top: 3em;
+    margin-bottom: 0em;
+    font-size: 4em;
+    font-weight: normal;
+}
+
+.masthead.segment {
+    bottom: 14px;
+    min-height: 700px;
+}
+
+.button {
+    top: 20px;
+}
