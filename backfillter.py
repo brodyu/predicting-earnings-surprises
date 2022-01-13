@@ -62,7 +62,7 @@ class BackFillter:
         filtered_earnings = filtered_earnings.dropna()
         return filtered_earnings
 
-    def backfill_ohlc(self):
+    def backfill_pricing(self):
         # Read in earnings data and extract symbols column
         earnings_df = pd.read_csv("historical_earnings.csv")
         # Gather dates to iterate over
@@ -129,12 +129,55 @@ class BackFillter:
                 print("KeyError at index: {}".format(x))
         return df
 
+    def backfill_technicals(self):
+        # Initialize iterable: list of stocks listed on U.S. exchanges
+        df = pd.read_csv("earnings_pricing.csv")
+        stock = df.symbol.unique()
+
+        # Parameters (edit according to EOD docs)
+        start_date = '2011-10-01'
+        end_date = '2022-01-01'
+        func = 'wma'
+        period = 20
+
+        df = pd.DataFrame()
+        for idx, val in enumerate(stock):
+            try:
+                print("Working iteration: {}".format(idx))
+                url = "https://eodhistoricaldata.com/api/technical/{}.US?order=d&fmt=json&from={}&to={}&function={}&period={}&api_token={}".format(val, start_date, end_date, func, period, self.EOD_API_KEY)
+                res = self.get_jsonparsed_data(url)
+                res_df = pd.DataFrame.from_records(res)
+                # Insert symbol
+                res_df.insert(1, "symbol", val)
+                # Concat with main dataframe
+                df = pd.concat([df, res_df])
+            except Exception as e:
+                print("Exception on {}: {}".format(idx, e))
+        # Reformat column header
+        df = df.rename(columns={"wma": "wma_20"})
+        # Create unique identifier and append to list
+        id_list = []
+        for idx, row in df.iterrows():
+            symbol = row["symbol"]
+            date = row["date"]
+            unique_id = date + '-' + symbol
+            id_list.append(unique_id)
+        # Insert IDs into dataframe as new column
+        df.insert(0, "id", id_list)
+        return df
+
 if __name__ == "__main__":
     backfiller = BackFillter()
+
     # Uncomment to backfill earnings data
+
     # earnings = backfiller.backfill_earnings()
-    # earnings.to_csv("historical_earnings.csv", index=False)
+    # earnings.to_csv("data/historical_earnings.csv", index=False)
 
     # Backfill OHLC pricing data
-    ohlc_data_df = backfiller.backfill_ohlc()
-    ohlc_data_df.to_csv("ohlc_output.csv", index=False)
+    pricing_data_df = backfiller.backfill_pricing()
+    pricing_data_df.to_csv("data/ohlc_output.csv", index=False)
+
+    # Backfill technical pricing data
+    technicals_df = backfiller.backfill_technicals()
+    technicals_df.to_csv("data/technicals.csv", index=False)
