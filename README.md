@@ -4,6 +4,8 @@
 
 In this project, we collected data from various external data providers with the goal of forecasting an earnings surprise prior to a company's earnings announcement. In our case, an earnings surprise is an actual EPS greater than a 15% change from the estimated EPS. Significant earnings surprises (positive and negative) usually correlate with respective price movements following the announcement. Our goal is to forecast the acutal EPS of a company and develop a trading strategy to long/short before the earnings announcement. 
 
+The metric we will forecast is earnings surprise, which is defined as the difference between the actual EPS and the estimated EPS: 
+
 ## Data
 
 The data used for this project was collected from three external data provider's API and stored in a MySQL database using AWS' Relational Database Service (RDS). The data is indexed further to provide training, validation, and testing data for our machine learning model. There are three types of data collected for this project: historical earnings data, pricing data, and technical price action data. 
@@ -19,7 +21,7 @@ Technical or price action data was collected from various data providers and giv
 
 ## Data Cleansing Process
 
-Most data was filtered and cleansed of imperfections during the ETL process (see rds-mysql-pipeline repository for more information). However, we did find more nuances that required further cleansing. 
+Most data was filtered and cleansed of imperfections during the ETL process (see rds-mysql-pipeline repository for more information). However, we did find more nuances that required further cleansing. After removing outliers, our earnings surprise results
 
 ## Feature Engineering
 
