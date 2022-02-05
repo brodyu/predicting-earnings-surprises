@@ -28,4 +28,6 @@ Most data was filtered and cleansed of imperfections during the ETL process (see
 
 ![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/histogram_eps_diff.png)
 
-Moreover, I wanted to investigate the potential differences between positive, neutral, and negative earnings surprises with earnings time and differences in the day of week in which an earnings report is announced. In order to do this, I created 
+Moreover, we investigated the potential differences between positive, neutral, and negative earnings surprises with earnings time and differences in the day of week in which an earnings report is announced. In order to do this, we created several new features including the day of week and day of year. From the ___ graph,
+
+![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/histogram_eps_diff.png)
