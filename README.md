@@ -33,3 +33,10 @@ Most data was filtered and cleansed of imperfections during the ETL process (see
 Moreover, we investigated the potential differences between positive, neutral, and negative earnings surprises with earnings time and differences in the day of week in which an earnings report is announced. In order to do this, we created several new features including the day of week and day of year. From the bar graph below, we can see the distribution between positive, neutral, and negative earnings surprises.
 
 ![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/earn_bar.png)
+
+While majority of earnings annoucements resulted in neutral earnings, there are signifiantly more positive earnings surprises than negative earnings surprises. Therefore when developing our trading strategy, it might be more lucrative to only go long positively predicted earnings surprises. 
+
+When breaking down historical earnings surprises by earnings time, we can see that there is no significant difference between earnings surprise and when the earnings is announced. An earnings annoucement can occur before market open (bmo) or after market close (amc).
+
+![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/earn_bar_time.png)
+
