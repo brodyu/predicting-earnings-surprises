@@ -40,3 +40,8 @@ When breaking down historical earnings surprises by earnings time, we can see th
 
 ![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/earn_bar_time.png)
 
+In order to investigate the potential differences between earnings surprise and day of week, we created new features that extract the day of week of each earnings annoucement. 
+
+![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/earn_bar_dow.png)
+
+In contrast to common belief, a company is not more likely to host a negative earnings surprise on a Friday. In reality, the distribution of earnings surprises are very similar amongst all earnings surprise brackets. 
