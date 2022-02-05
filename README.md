@@ -9,6 +9,8 @@ The metric we will forecast is earnings surprise, which is defined as the differ
 earnings_surprise = (actual_eps - estimated_eps) / actual_eps
 ```
 
+An earnings surprise greater than 15% is considered to be 'Positive', while an earnings surprise less than -15% is considered to be 'Negative'. Therefore, any earnings surprise greater than -15% and less than 15% is considered to be 'Neutral'.
+
 ## Data
 
 The data used for this project was collected from three external data provider's API and stored in a MySQL database using AWS' Relational Database Service (RDS). The data is indexed further to provide training, validation, and testing data for our machine learning model. There are three types of data collected for this project: historical earnings data, pricing data, and technical price action data. 
@@ -28,6 +30,6 @@ Most data was filtered and cleansed of imperfections during the ETL process (see
 
 ![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/histogram_eps_diff.png)
 
-Moreover, we investigated the potential differences between positive, neutral, and negative earnings surprises with earnings time and differences in the day of week in which an earnings report is announced. In order to do this, we created several new features including the day of week and day of year. From the ___ graph,
+Moreover, we investigated the potential differences between positive, neutral, and negative earnings surprises with earnings time and differences in the day of week in which an earnings report is announced. In order to do this, we created several new features including the day of week and day of year. From the bar graph below, we can see the distribution between positive, neutral, and negative earnings surprises.
 
-![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/histogram_eps_diff.png)
+![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/earn_bar.png)
