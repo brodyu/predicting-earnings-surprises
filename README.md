@@ -44,4 +44,4 @@ In order to investigate the potential differences between earnings surprise and 
 
 ![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/earn_bar_dow.png)
 
-In contrast to common belief, a company is not more likely to host a negative earnings surprise on a Friday. In reality, the distribution of earnings surprises are very similar amongst all earnings surprise brackets. 
+In contrast to common belief, a company is not more likely to host a negative earnings surprise on a Friday. The original idea was that a company would purposefully report a negative surprise on a Friday to escape the attention of the market ahead of the weekend. However in reality, the distribution of earnings surprises over the past ten years are very similar amongst all earnings surprise brackets. There is no noteable increase in negative earnings surprises on Fridays. In fact, most companies prefer to report on Thursdays rather than Fridays. 
