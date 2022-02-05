@@ -19,7 +19,7 @@ Technical or price action data was collected from various data providers and giv
 
 ## Data Cleansing Process
 
-Most data was filtered and cleansed of imperfections during the ETL process (see rds-mysql-pipeline repository for more information). However, we did find more 
+Most data was filtered and cleansed of imperfections during the ETL process (see rds-mysql-pipeline repository for more information). However, we did find more nuances that required further cleansing. 
 
 ## Feature Engineering
 
