@@ -22,10 +22,10 @@ For each historical earnings data point from FMP's API, we collect basic daily p
 #### Technical Data
 Technical or price action data was collected from various data providers and gives us insight into trends that are happening with price 5, 10, and 20 days out from a company's earnings announcement.
 
-## Data Cleansing Process
+## Feature Engineering / Data Wrangling
 
-Most data was filtered and cleansed of imperfections during the ETL process (see rds-mysql-pipeline repository for more information). However, we did find more nuances that required further cleansing. After removing outliers, our earnings surprise results
-
-## Feature Engineering
+Most data was filtered and cleansed of imperfections during the ETL process (see rds-mysql-pipeline repository for more information). However, we did find more nuances that required further cleansing. After removing outliers, our earnings surprise results follow a normal distribution with majority of the values ranging -300% to 300%.
 
 ![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/histogram_eps_diff.png)
+
+Moreover, I wanted to investigate the potential differences between positive, neutral, and negative earnings surprises with earnings time and differences in the day of week in which an earnings report is announced. In order to do this, I created 
