@@ -6,7 +6,7 @@ In this project, we collected data from various external data providers with the
 
 The metric we will forecast is earnings surprise which is defined as the difference between the actual EPS and the estimated EPS: 
 ```python
-earnings_surprise = (actual_eps - estimated_eps) / actual_eps
+earnings_surprise = (actual_eps - estimated_eps) / |estimated_eps| * 100
 ```
 
 An earnings surprise greater than 15% is considered to be 'Positive', while an earnings surprise less than -15% is considered to be 'Negative'. Therefore, any earnings surprise greater than -15% and less than 15% is considered to be 'Neutral'.
