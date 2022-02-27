@@ -67,4 +67,4 @@ FROM (
 )x
 ```
 ## Modeling
-Due to this projects enphasis on machine learning infrastructure instead of modeling, we fitted a simple Random Forest Model from scikit-learn's ensemble library. The Random Forest Regressor 
+Due to this projects enphasis on machine learning infrastructure instead of modeling, we fitted a simple Random Forest Model from scikit-learn's ensemble library. The Random Forest algorithm is a supervised machine learning technique that uses multiple decision trees in parallel to predict our value.
