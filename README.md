@@ -73,4 +73,6 @@ We can interpret the value of each feature using the feature_importances_ functi
 
 ![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/feature_import.png)
 
-When we exclude the epsEstimated feature, we can see that the lagged earnings features we created with SQL also play a large part in the model's decision process. Moreover, other attributes such as volume, volatility, and the percentage change one day prior to earnings also displayed an impact in feature importance. However, our pricing indicators such as the weighted moving average and simple moving average had little to no effect on feature importance. 
+When we exclude the epsEstimated feature, we can see that the lagged earnings features we created with SQL also play a large part in the model's decision process. Moreover, other attributes such as volume, volatility, and the percentage change one day prior to earnings also displayed an impact in feature importance. However, our pricing indicators such as the weighted moving average and simple moving average had little to no effect on feature importance.
+
+![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/feature_import_exlud.png)
