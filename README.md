@@ -72,3 +72,5 @@ Due to this projects enphasis on machine learning infrastructure instead of mode
 We can interpret the value of each feature using the feature_importances_ function from scikit-learn. As seen below, the feature with the most influence over our predicted EPS is the analysts' estimated EPS. This comes as no surprise as analysts' estimates are usually very close to the actual EPS.
 
 ![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/feature_import.png)
+
+When we exclude the epsEstimated feature, we can see that the lagged earnings features we created with SQL also play a large part in the model's decision process. Moreover, other attributes such as volume, volatility, and the percentage change one day prior to earnings also displayed an impact in feature importance. However, our pricing indicators such as the weighted moving average and simple moving average had little to no effect on feature importance. 
