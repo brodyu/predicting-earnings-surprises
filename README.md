@@ -67,4 +67,8 @@ FROM (
 )x
 ```
 ## Modeling
-Due to this projects enphasis on machine learning infrastructure instead of modeling, we fitted a simple Random Forest Model from scikit-learn's ensemble library. The Random Forest algorithm is a supervised machine learning technique that uses multiple decision trees in parallel to predict our value.
+Due to this projects enphasis on machine learning infrastructure instead of modeling, we fitted a simple Random Forest Model from scikit-learn's ensemble library. The Random Forest algorithm is a supervised machine learning technique that uses multiple decision trees in parallel to predict our value. 
+
+We can interpret the value of each feature using the feature_importances_ function from scikit-learn. As seen below, the feature with the most influence over our predicted EPS is the analysts' estimated EPS. This comes as no surprise as analysts' estimates are usually very close to the actual EPS.
+
+![Untitled Workspace (1)](https://github.com/brodyu/predicting-earnings-surprises/blob/main/visuals/feature_import.png)
